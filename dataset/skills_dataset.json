@@ -1,0 +1,178 @@
+{
+  "google": {
+    "Software Engineer (SWE)": {
+      "required": ["Data Structures", "Algorithms", "Dynamic Programming", "Graphs", "Trees", "System Design", "Python", "Java", "C++", "Object Oriented Programming", "Problem Solving", "Big O Notation"],
+      "good_to_have": ["Distributed Systems", "Machine Learning", "Kubernetes", "Go", "Linux", "SQL"],
+      "description": "Core engineering role focused on building scalable systems and solving complex algorithmic problems."
+    },
+    "Machine Learning Engineer": {
+      "required": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "Linear Algebra", "Statistics", "Data Structures", "Algorithms", "SQL"],
+      "good_to_have": ["NLP", "Computer Vision", "Kubernetes", "Spark", "Big Data", "Research Papers"],
+      "description": "Build and deploy ML models at scale for Google products."
+    },
+    "Data Engineer": {
+      "required": ["SQL", "Python", "Big Data", "Spark", "Data Pipelines", "ETL", "Data Structures", "Algorithms", "Cloud (GCP)"],
+      "good_to_have": ["Kafka", "Airflow", "NoSQL", "Scala", "Data Warehousing"],
+      "description": "Design and maintain large-scale data infrastructure."
+    },
+    "Site Reliability Engineer (SRE)": {
+      "required": ["Linux", "Python", "System Design", "Networking", "Distributed Systems", "Monitoring", "Algorithms", "Data Structures"],
+      "good_to_have": ["Kubernetes", "Docker", "Terraform", "Go", "CI/CD"],
+      "description": "Ensure reliability and scalability of Google's production systems."
+    }
+  },
+  "amazon": {
+    "Software Development Engineer (SDE)": {
+      "required": ["Data Structures", "Algorithms", "Dynamic Programming", "Trees", "Graphs", "System Design", "Java", "Python", "Object Oriented Programming", "Problem Solving", "SQL"],
+      "good_to_have": ["AWS", "Microservices", "Distributed Systems", "C++", "NoSQL"],
+      "description": "Build and scale Amazon's core services and products."
+    },
+    "Data Scientist": {
+      "required": ["Python", "Machine Learning", "Statistics", "SQL", "Data Analysis", "Pandas", "NumPy", "Algorithms"],
+      "good_to_have": ["R", "Deep Learning", "AWS", "Spark", "A/B Testing", "Visualization"],
+      "description": "Drive data-driven decisions across Amazon's business units."
+    },
+    "Cloud Solutions Architect": {
+      "required": ["AWS", "Cloud Computing", "System Design", "Networking", "Security", "Distributed Systems", "Linux"],
+      "good_to_have": ["Terraform", "Kubernetes", "Docker", "Python", "DevOps"],
+      "description": "Design cloud architectures for enterprise customers on AWS."
+    },
+    "Business Analyst": {
+      "required": ["SQL", "Data Analysis", "Excel", "Problem Solving", "Communication", "Statistics", "Visualization"],
+      "good_to_have": ["Python", "Tableau", "Power BI", "Machine Learning", "AWS"],
+      "description": "Analyze business data to drive strategic decisions at Amazon."
+    }
+  },
+  "microsoft": {
+    "Software Engineer": {
+      "required": ["Data Structures", "Algorithms", "C#", "C++", "Java", "Python", "Object Oriented Programming", "System Design", "Problem Solving", "SQL"],
+      "good_to_have": ["Azure", "Distributed Systems", ".NET", "TypeScript", "Agile"],
+      "description": "Build Microsoft's products including Windows, Office, and Azure."
+    },
+    "Cloud Engineer": {
+      "required": ["Azure", "Cloud Computing", "Networking", "Linux", "Python", "System Design", "DevOps", "Security"],
+      "good_to_have": ["Kubernetes", "Docker", "Terraform", "PowerShell", "CI/CD"],
+      "description": "Design and manage cloud infrastructure on Microsoft Azure."
+    },
+    "AI/ML Engineer": {
+      "required": ["Python", "Machine Learning", "Deep Learning", "PyTorch", "TensorFlow", "Statistics", "Linear Algebra", "Data Structures"],
+      "good_to_have": ["Azure ML", "NLP", "Computer Vision", "ONNX", "Research"],
+      "description": "Build AI-powered features for Microsoft products and Azure AI services."
+    },
+    "Product Manager": {
+      "required": ["Communication", "Problem Solving", "Data Analysis", "SQL", "Product Thinking", "Agile", "Stakeholder Management"],
+      "good_to_have": ["Technical Background", "Azure", "Machine Learning", "UX Design", "A/B Testing"],
+      "description": "Define product vision and roadmap for Microsoft's product lines."
+    }
+  },
+  "apple": {
+    "iOS Developer": {
+      "required": ["Swift", "Objective-C", "iOS SDK", "Xcode", "Object Oriented Programming", "Data Structures", "Algorithms", "UIKit", "SwiftUI"],
+      "good_to_have": ["Core Data", "Combine", "ARKit", "Metal", "CI/CD", "Testing"],
+      "description": "Build world-class iOS applications for Apple's ecosystem."
+    },
+    "Software Engineer": {
+      "required": ["C++", "Swift", "Python", "Data Structures", "Algorithms", "System Design", "Object Oriented Programming", "Problem Solving"],
+      "good_to_have": ["macOS", "Linux", "Distributed Systems", "Security", "Performance Optimization"],
+      "description": "Core engineering across Apple's hardware and software platforms."
+    },
+    "Machine Learning Engineer": {
+      "required": ["Python", "Machine Learning", "Core ML", "Deep Learning", "TensorFlow", "PyTorch", "Statistics", "Data Structures"],
+      "good_to_have": ["Swift", "On-device ML", "Computer Vision", "NLP", "Privacy Engineering"],
+      "description": "Build on-device ML models for Apple's products with a focus on privacy."
+    },
+    "Hardware Engineer": {
+      "required": ["VLSI", "Circuit Design", "Embedded Systems", "C", "C++", "Signal Processing", "Problem Solving"],
+      "good_to_have": ["Python", "FPGA", "ARM Architecture", "Power Optimization", "Testing"],
+      "description": "Design Apple Silicon and hardware components for Apple devices."
+    }
+  },
+  "netflix": {
+    "Senior Software Engineer": {
+      "required": ["Java", "Python", "System Design", "Distributed Systems", "Microservices", "Data Structures", "Algorithms", "SQL", "NoSQL"],
+      "good_to_have": ["Kafka", "Cassandra", "AWS", "Kubernetes", "Chaos Engineering", "Scala"],
+      "description": "Build Netflix's streaming platform serving 200M+ subscribers globally."
+    },
+    "Data Engineer": {
+      "required": ["Python", "Spark", "SQL", "Big Data", "ETL", "Data Pipelines", "Kafka", "Data Structures"],
+      "good_to_have": ["Scala", "Flink", "Iceberg", "Druid", "AWS", "Airflow"],
+      "description": "Build data infrastructure powering Netflix's recommendation and analytics systems."
+    },
+    "Machine Learning Engineer": {
+      "required": ["Python", "Machine Learning", "Deep Learning", "Recommendation Systems", "Statistics", "TensorFlow", "PyTorch", "SQL"],
+      "good_to_have": ["Spark", "A/B Testing", "Reinforcement Learning", "NLP", "Scala"],
+      "description": "Build recommendation algorithms and personalization systems for Netflix."
+    },
+    "Security Engineer": {
+      "required": ["Security", "Networking", "Python", "Linux", "Cryptography", "Penetration Testing", "System Design"],
+      "good_to_have": ["AWS Security", "Zero Trust", "SIEM", "Threat Modeling", "Kubernetes"],
+      "description": "Protect Netflix's infrastructure and customer data at scale."
+    }
+  },
+  "tcs": {
+    "Software Developer": {
+      "required": ["Java", "Python", "C", "C++", "Data Structures", "Algorithms", "SQL", "Object Oriented Programming", "Problem Solving"],
+      "good_to_have": ["Spring Boot", "HTML/CSS", "JavaScript", "Git", "Linux", "Agile"],
+      "description": "Develop and maintain enterprise software solutions for TCS clients."
+    },
+    "System Analyst": {
+      "required": ["SQL", "Data Analysis", "Problem Solving", "Communication", "Java", "Python", "Business Analysis", "Documentation"],
+      "good_to_have": ["UML", "Agile", "JIRA", "Testing", "Project Management"],
+      "description": "Analyze and design IT systems for TCS enterprise clients."
+    },
+    "DevOps Engineer": {
+      "required": ["Linux", "Python", "Shell Scripting", "Docker", "CI/CD", "Git", "Networking", "Cloud Computing"],
+      "good_to_have": ["Kubernetes", "Terraform", "Jenkins", "AWS", "Azure", "Monitoring"],
+      "description": "Automate and manage deployment pipelines for TCS projects."
+    },
+    "Data Analyst": {
+      "required": ["SQL", "Excel", "Python", "Data Analysis", "Statistics", "Visualization", "Problem Solving"],
+      "good_to_have": ["Tableau", "Power BI", "Machine Learning", "R", "Big Data"],
+      "description": "Analyze data to generate business insights for TCS clients."
+    }
+  },
+  "accenture": {
+    "Associate Software Engineer": {
+      "required": ["Java", "Python", "C", "C++", "Data Structures", "Algorithms", "SQL", "Object Oriented Programming", "Problem Solving", "Communication"],
+      "good_to_have": ["JavaScript", "HTML/CSS", "Git", "Agile", "Testing", "Linux"],
+      "description": "Entry-level engineering role building client solutions at Accenture."
+    },
+    "Cloud Engineer": {
+      "required": ["Cloud Computing", "AWS", "Azure", "Linux", "Python", "Networking", "DevOps", "Security"],
+      "good_to_have": ["Kubernetes", "Docker", "Terraform", "CI/CD", "GCP"],
+      "description": "Migrate and manage enterprise workloads on cloud platforms."
+    },
+    "Data Analyst": {
+      "required": ["SQL", "Excel", "Python", "Data Analysis", "Statistics", "Visualization", "Communication"],
+      "good_to_have": ["Tableau", "Power BI", "Machine Learning", "R", "Big Data"],
+      "description": "Deliver data-driven insights for Accenture's consulting clients."
+    },
+    "Cybersecurity Analyst": {
+      "required": ["Security", "Networking", "Linux", "Python", "Risk Assessment", "Communication", "Problem Solving"],
+      "good_to_have": ["SIEM", "Penetration Testing", "Cryptography", "Cloud Security", "Compliance"],
+      "description": "Protect client infrastructure and respond to security threats."
+    }
+  },
+  "zoho": {
+    "Software Developer": {
+      "required": ["Java", "Python", "C", "C++", "Data Structures", "Algorithms", "SQL", "Object Oriented Programming", "Problem Solving", "JavaScript"],
+      "good_to_have": ["Spring Boot", "React", "Node.js", "Linux", "Git", "REST APIs"],
+      "description": "Build Zoho's suite of business software products used by millions."
+    },
+    "Full Stack Developer": {
+      "required": ["JavaScript", "React", "Node.js", "HTML/CSS", "SQL", "REST APIs", "Java", "Python", "Object Oriented Programming"],
+      "good_to_have": ["TypeScript", "MongoDB", "Docker", "Git", "Linux", "Testing"],
+      "description": "Develop end-to-end features for Zoho's web applications."
+    },
+    "Data Scientist": {
+      "required": ["Python", "Machine Learning", "Statistics", "SQL", "Data Analysis", "Pandas", "NumPy", "Algorithms"],
+      "good_to_have": ["Deep Learning", "NLP", "Visualization", "R", "Big Data", "Spark"],
+      "description": "Build intelligent features and analytics for Zoho's product suite."
+    },
+    "QA Engineer": {
+      "required": ["Testing", "Java", "Python", "SQL", "Problem Solving", "Communication", "Automation Testing", "Selenium"],
+      "good_to_have": ["Appium", "JUnit", "TestNG", "CI/CD", "Performance Testing", "API Testing"],
+      "description": "Ensure quality of Zoho's software products through rigorous testing."
+    }
+  }
+}
